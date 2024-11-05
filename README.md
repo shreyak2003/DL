@@ -1,4 +1,11 @@
 https://chatgpt.com/share/67297239-179c-8004-bb9c-ddcfcdc568e9
+Implementing Feedforward neural networks with Keras and TensorFlow
+a. Import the necessary packages
+b. Load the training and testing data (MNIST/CIFAR10)
+c. Define the network architecture using Keras
+d. Train the model using SGD
+e. Evaluate the network
+f. Plot the training loss and accuracy
 
 https://chatgpt.com/share/67296baf-220c-8004-a375-6032851b7a9b
 
